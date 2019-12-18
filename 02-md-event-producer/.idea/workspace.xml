@@ -1,7 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82780788-e282-40d8-95e0-bd30bb9761cc" name="Default Changelist" comment="" />
+    <list default="true" id="82780788-e282-40d8-95e0-bd30bb9761cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/learningjournal/kafka/examples/AppConfigs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/learningjournal/kafka/examples/AppConfigs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/guru/learningjournal/kafka/examples/AppConfigs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/guru/learningjournal/kafka/examples/AppConfigs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/guru/learningjournal/kafka/examples/MdEventProducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/guru/learningjournal/kafka/examples/MdEventProducer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-0/__consumer_offsets-0/leader-epoch-checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-0/__consumer_offsets-0/leader-epoch-checkpoint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-0/__consumer_offsets-1/00000000000000000000.timeindex" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-0/__consumer_offsets-1/00000000000000000000.timeindex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-0/__consumer_offsets-1/leader-epoch-checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-0/__consumer_offsets-1/leader-epoch-checkpoint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-0/__consumer_offsets-2/00000000000000000000.timeindex" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-0/__consumer_offsets-2/00000000000000000000.timeindex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-0/__consumer_offsets-2/leader-epoch-checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-0/__consumer_offsets-2/leader-epoch-checkpoint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-0/hello-producer-topic-0/00000000000000000000.timeindex" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-0/hello-producer-topic-0/00000000000000000000.timeindex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-0/hello-producer-topic-0/leader-epoch-checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-0/hello-producer-topic-0/leader-epoch-checkpoint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-0/hello-producer-topic-1/00000000000000000000.index" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-0/hello-producer-topic-1/00000000000000000000.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-0/hello-producer-topic-1/00000000000000000000.log" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-0/hello-producer-topic-1/00000000000000000000.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-0/hello-producer-topic-1/00000000000000000000.timeindex" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-0/hello-producer-topic-1/00000000000000000000.timeindex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-0/hello-producer-topic-1/leader-epoch-checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-0/hello-producer-topic-1/leader-epoch-checkpoint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-0/hello-producer-topic-2/00000000000000000000.index" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-0/hello-producer-topic-2/00000000000000000000.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-0/hello-producer-topic-2/00000000000000000000.timeindex" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-0/hello-producer-topic-2/00000000000000000000.timeindex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-0/hello-producer-topic-2/leader-epoch-checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-0/hello-producer-topic-2/leader-epoch-checkpoint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-0/hello-producer-topic-3/00000000000000000000.timeindex" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-0/hello-producer-topic-3/00000000000000000000.timeindex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-0/hello-producer-topic-3/leader-epoch-checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-0/hello-producer-topic-3/leader-epoch-checkpoint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-0/hello-producer-topic-4/00000000000000000000.index" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-0/hello-producer-topic-4/00000000000000000000.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-0/hello-producer-topic-4/00000000000000000000.log" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-0/hello-producer-topic-4/00000000000000000000.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-0/hello-producer-topic-4/00000000000000000000.timeindex" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-0/hello-producer-topic-4/00000000000000000000.timeindex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-0/hello-producer-topic-4/leader-epoch-checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-0/hello-producer-topic-4/leader-epoch-checkpoint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-0/recovery-point-offset-checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-0/recovery-point-offset-checkpoint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-0/replication-offset-checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-0/replication-offset-checkpoint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-1/__consumer_offsets-0/leader-epoch-checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-1/__consumer_offsets-0/leader-epoch-checkpoint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-1/__consumer_offsets-1/00000000000000000000.timeindex" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-1/__consumer_offsets-1/00000000000000000000.timeindex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-1/__consumer_offsets-2/00000000000000000000.timeindex" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-1/__consumer_offsets-2/00000000000000000000.timeindex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-1/hello-producer-topic-0/00000000000000000000.index" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-1/hello-producer-topic-0/00000000000000000000.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-1/hello-producer-topic-0/00000000000000000000.log" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-1/hello-producer-topic-0/00000000000000000000.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-1/hello-producer-topic-0/00000000000000000000.timeindex" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-1/hello-producer-topic-0/00000000000000000000.timeindex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-1/hello-producer-topic-0/leader-epoch-checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-1/hello-producer-topic-0/leader-epoch-checkpoint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-1/hello-producer-topic-1/00000000000000000000.log" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-1/hello-producer-topic-1/00000000000000000000.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-1/hello-producer-topic-1/00000000000000000000.timeindex" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-1/hello-producer-topic-1/00000000000000000000.timeindex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-1/hello-producer-topic-1/leader-epoch-checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-1/hello-producer-topic-1/leader-epoch-checkpoint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-1/hello-producer-topic-2/00000000000000000000.index" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-1/hello-producer-topic-2/00000000000000000000.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-1/hello-producer-topic-2/00000000000000000000.timeindex" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-1/hello-producer-topic-2/00000000000000000000.timeindex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-1/hello-producer-topic-3/00000000000000000000.index" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-1/hello-producer-topic-3/00000000000000000000.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-1/hello-producer-topic-3/00000000000000000000.log" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-1/hello-producer-topic-3/00000000000000000000.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-1/hello-producer-topic-3/00000000000000000000.timeindex" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-1/hello-producer-topic-3/00000000000000000000.timeindex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-1/hello-producer-topic-3/leader-epoch-checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-1/hello-producer-topic-3/leader-epoch-checkpoint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-1/hello-producer-topic-4/00000000000000000000.log" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-1/hello-producer-topic-4/00000000000000000000.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-1/hello-producer-topic-4/00000000000000000000.timeindex" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-1/hello-producer-topic-4/00000000000000000000.timeindex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-1/hello-producer-topic-4/leader-epoch-checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-1/hello-producer-topic-4/leader-epoch-checkpoint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-1/recovery-point-offset-checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-1/recovery-point-offset-checkpoint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-1/replication-offset-checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-1/replication-offset-checkpoint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-2/__consumer_offsets-0/leader-epoch-checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-2/__consumer_offsets-0/leader-epoch-checkpoint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-2/__consumer_offsets-1/00000000000000000000.timeindex" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-2/__consumer_offsets-1/00000000000000000000.timeindex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-2/__consumer_offsets-1/leader-epoch-checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-2/__consumer_offsets-1/leader-epoch-checkpoint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-2/__consumer_offsets-2/00000000000000000000.timeindex" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-2/__consumer_offsets-2/00000000000000000000.timeindex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-2/__consumer_offsets-2/leader-epoch-checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-2/__consumer_offsets-2/leader-epoch-checkpoint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-2/hello-producer-topic-0/00000000000000000000.index" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-2/hello-producer-topic-0/00000000000000000000.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-2/hello-producer-topic-0/00000000000000000000.log" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-2/hello-producer-topic-0/00000000000000000000.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-2/hello-producer-topic-0/00000000000000000000.timeindex" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-2/hello-producer-topic-0/00000000000000000000.timeindex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-2/hello-producer-topic-0/leader-epoch-checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-2/hello-producer-topic-0/leader-epoch-checkpoint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-2/hello-producer-topic-1/00000000000000000000.index" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-2/hello-producer-topic-1/00000000000000000000.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-2/hello-producer-topic-1/00000000000000000000.log" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-2/hello-producer-topic-1/00000000000000000000.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-2/hello-producer-topic-1/00000000000000000000.timeindex" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-2/hello-producer-topic-1/00000000000000000000.timeindex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-2/hello-producer-topic-1/leader-epoch-checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-2/hello-producer-topic-1/leader-epoch-checkpoint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-2/hello-producer-topic-2/00000000000000000000.timeindex" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-2/hello-producer-topic-2/00000000000000000000.timeindex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-2/hello-producer-topic-2/leader-epoch-checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-2/hello-producer-topic-2/leader-epoch-checkpoint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-2/hello-producer-topic-3/00000000000000000000.index" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-2/hello-producer-topic-3/00000000000000000000.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-2/hello-producer-topic-3/00000000000000000000.log" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-2/hello-producer-topic-3/00000000000000000000.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-2/hello-producer-topic-3/00000000000000000000.timeindex" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-2/hello-producer-topic-3/00000000000000000000.timeindex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-2/hello-producer-topic-3/leader-epoch-checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-2/hello-producer-topic-3/leader-epoch-checkpoint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-2/hello-producer-topic-4/00000000000000000000.index" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-2/hello-producer-topic-4/00000000000000000000.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-2/hello-producer-topic-4/00000000000000000000.log" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-2/hello-producer-topic-4/00000000000000000000.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-2/hello-producer-topic-4/00000000000000000000.timeindex" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-2/hello-producer-topic-4/00000000000000000000.timeindex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-2/hello-producer-topic-4/leader-epoch-checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-2/hello-producer-topic-4/leader-epoch-checkpoint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-2/recovery-point-offset-checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-2/recovery-point-offset-checkpoint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/kafka-log-2/replication-offset-checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/kafka-log-2/replication-offset-checkpoint" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +96,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -38,7 +116,9 @@
     <option name="height" value="845" />
   </component>
   <component name="ProjectId" id="1VA1yluMR6zy3bDPCYtyOdR2JYM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../FinalProjects/02-hello-producer" />
@@ -63,10 +143,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Batch.consumer-start">
+  <component name="RunManager" selected="Application.MdEventProducer">
     <configuration name="MdEventProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="guru.learningjournal.kafka.examples.MdEventProducer" />
-      <module name="hello-producer" />
+      <module name="md-event-producer" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="guru.learningjournal.kafka.examples.*" />
@@ -77,10 +157,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="1-kafka-server-start" type="BatchConfigurationType" factoryName="Batch" temporary="true">
-      <module name="hello-producer" />
+    <configuration name="0-kafka-server-start" type="BatchConfigurationType" factoryName="Batch" temporary="true">
+      <module name="md-event-producer" />
       <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="WORKING_DIRECTORY" value="C:\Users\Sujesh\Documents\udemy\kafka_streams\02-hello-producer\scripts" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Sujesh\Documents\udemy\kafka_streams\kafka-streams-udemy\02-md-event-producer\scripts" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="0-kafka-server-start.cmd" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1-kafka-server-start" type="BatchConfigurationType" factoryName="Batch" temporary="true">
+      <module name="md-event-producer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Sujesh\Documents\udemy\kafka_streams\kafka-streams-udemy\02-md-event-producer\scripts" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SCRIPT_NAME" value="1-kafka-server-start.cmd" />
       <option name="PARAMETERS" value="" />
@@ -89,9 +180,9 @@
       </method>
     </configuration>
     <configuration name="2-kafka-server-start" type="BatchConfigurationType" factoryName="Batch" temporary="true">
-      <module name="hello-producer" />
+      <module name="md-event-producer" />
       <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="WORKING_DIRECTORY" value="C:\Users\Sujesh\Documents\udemy\kafka_streams\02-hello-producer\scripts" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Sujesh\Documents\udemy\kafka_streams\kafka-streams-udemy\02-md-event-producer\scripts" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SCRIPT_NAME" value="2-kafka-server-start.cmd" />
       <option name="PARAMETERS" value="" />
@@ -99,23 +190,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="consumer-start" type="BatchConfigurationType" factoryName="Batch" temporary="true">
-      <module name="hello-producer" />
+    <configuration name="zookeeper-start" type="BatchConfigurationType" factoryName="Batch" temporary="true">
+      <module name="md-event-producer" />
       <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="WORKING_DIRECTORY" value="C:\Users\Sujesh\Documents\udemy\kafka_streams\02-hello-producer\scripts" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Sujesh\Documents\udemy\kafka_streams\kafka-streams-udemy\02-md-event-producer\scripts" />
       <option name="PARENT_ENVS" value="true" />
-      <option name="SCRIPT_NAME" value="consumer-start.cmd" />
-      <option name="PARAMETERS" value="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="topic-create" type="BatchConfigurationType" factoryName="Batch" temporary="true">
-      <module name="hello-producer" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="WORKING_DIRECTORY" value="C:\Users\Sujesh\Documents\udemy\kafka_streams\02-hello-producer\scripts" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SCRIPT_NAME" value="topic-create.cmd" />
+      <option name="SCRIPT_NAME" value="zookeeper-start.cmd" />
       <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -123,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Batch.consumer-start" />
         <item itemvalue="Application.MdEventProducer" />
-        <item itemvalue="Batch.topic-create" />
         <item itemvalue="Batch.2-kafka-server-start" />
         <item itemvalue="Batch.1-kafka-server-start" />
+        <item itemvalue="Batch.0-kafka-server-start" />
+        <item itemvalue="Batch.zookeeper-start" />
       </list>
     </recent_temporary>
   </component>
@@ -142,10 +222,22 @@
       <option name="presentableId" value="Default" />
       <updated>1562846696107</updated>
       <workItem from="1576681343323" duration="3548000" />
+      <workItem from="1576688336254" duration="222000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
