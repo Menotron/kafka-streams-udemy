@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a741642d-2b83-4a0c-b146-342403b49642" name="Default Changelist" comment="" />
+    <list default="true" id="a741642d-2b83-4a0c-b146-342403b49642" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/guru/learningjournal/kafka/examples/RewardsPartitioner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/guru/learningjournal/kafka/examples/RewardsTransformer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rewards-in-memory-state.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/learningjournal/kafka/examples/AppConfigs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/learningjournal/kafka/examples/AppConfigs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/learningjournal/kafka/examples/RewardsApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/learningjournal/kafka/examples/RewardsApp.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,14 +26,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1WVhOacyOmqOqP89LXweBcnl8Qj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/guru/learningjournal/kafka/examples/serde" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -57,10 +70,22 @@
       <option name="presentableId" value="Default" />
       <updated>1579240637634</updated>
       <workItem from="1579240638964" duration="2850000" />
+      <workItem from="1579275759509" duration="7984000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
